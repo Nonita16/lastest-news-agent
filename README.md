@@ -6,6 +6,12 @@ An AI-powered chat assistant that learns your preferences and delivers personali
 
 Latest News Agent is an intelligent news aggregation and summarization system that creates a personalized news experience. The application uses advanced AI to understand user preferences and deliver tailored news content in the user's preferred format, language, and style.
 
+
+<img width="1149" height="941" alt="Screenshot 2025-08-19 at 7 50 13 PM" src="https://github.com/user-attachments/assets/2ae78bd6-df20-44ea-a88a-cef9b800315b" />
+
+
+
+
 ### Key Features
 
 - **🎯 Personalized Preferences**: Collects and remembers user preferences for tone, format, language, interaction style, and topics
@@ -428,20 +434,6 @@ npm install
 **Solution**:
 - Ensure the virtual environment is activated
 - Reinstall dependencies: `pip install -r requirements.txt`
-
-### Debug Mode
-
-Enable debug logging by setting in your `.env`:
-
-```env
-LOG_LEVEL=DEBUG
-```
-
-This will provide detailed logs in the backend console.
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 
 ## 🙏 Acknowledgments
