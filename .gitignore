@@ -1,0 +1,25 @@
+# Ignore local configuration files
+.env
+
+# Ignore IDE and editor specific files
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# Ignore build artifacts
+/node_modules/
+/dist/
+*.zip
+*.tar.gz
+
+# Ignore log files
+/logs/
+*.log
+
+# Ignore sensitive files
+/config/secrets.yml
+/config/database.yml
+
+# Ignore temporary files
+/tmp/
